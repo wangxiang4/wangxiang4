@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2) 
 ![Vue](https://img.shields.io/badge/-vue-grey?style=for-the-badge&logo=Vue&logoColor=white&labelColor=8E2DE2) 
+
 <br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2) 
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2) 
@@ -38,10 +39,6 @@
 <br>
  java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, 等等一大把相关与后端的一些技术
 <br>
-
-<p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=wangxiang4" alt="visitors"/>
-</p>
 
 ![王翔github状态](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
 <br/>
