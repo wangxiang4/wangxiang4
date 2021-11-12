@@ -17,9 +17,8 @@
 
 [邮箱/1827945911@qq.com](mailto:1827945911@qq.com)
 
-<h3> 🔧 技术栈与工具</h3>
+<h3> 🔧 前端技术栈与工具</h3>
 
-![java](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2) 
 <br>
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2) 
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2) 
@@ -34,6 +33,11 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-grey?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=8E2DE2) 
 ![Typora](https://img.shields.io/badge/-Typora-grey?style=for-the-badge&logo=Typora&logoColor=white&labelColor=8E2DE2) 
 
+<h3> 🔧 后端技术栈与工具</h3>
+
+<br>
+ java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, 等等一大把相关与后端的一些技术
+<br>
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wangxiang4" alt="visitors"/>
