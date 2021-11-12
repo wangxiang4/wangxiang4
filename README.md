@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2> Hello ! I'm 王翔. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
-<!--
-**wangxiang4/wangxiang4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Here are some ideas to get you started:
+<h3> 👨 关于我 </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2019加入后端开发工作,目前为止已经有3年经验的后端开发经验了,前端也会一点点
+- 2021年正式加入entfrm开源项目,正在开发商业版,如做的不好,欢迎大家来指点一二
+- 我目前居住在衡阳.衡东,也希望以后能多为开源社区出一份微薄的力量
+
+
+<h3> 💬 联系我</h3>
+
+[知乎/王翔](https://www.zhihu.com/people/anonymous-19-28-81)
+
+[CSDN/王翔](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
+
+[邮箱/1827945911@qq.com](mailto:1827945911@qq.com)
+
+<h3> 🔧 技术栈与工具</h3>
+
+![java](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2) 
+<br>
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2) 
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2) 
+![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2) 
+![Vue](https://img.shields.io/badge/-vue-grey?style=for-the-badge&logo=Vue&logoColor=white&labelColor=8E2DE2) 
+<br>
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2) 
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2) 
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2) 
+![WebStorm](https://img.shields.io/badge/-WebStorm-grey?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=8E2DE2) 
+![Typora](https://img.shields.io/badge/-Typora-grey?style=for-the-badge&logo=Typora&logoColor=white&labelColor=8E2DE2) 
+
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=miyuesc" alt="visitors"/>
+</p>
+
+![王翔 github stats](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
+
