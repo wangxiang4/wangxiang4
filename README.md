@@ -36,10 +36,10 @@
 
 
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=miyuesc" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wangxiang4" alt="visitors"/>
 </p>
 
-![王翔 github stats](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
+![王翔github状态](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
+![高级语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
 
