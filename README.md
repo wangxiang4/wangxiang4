@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<img alt="GIF" src="./sample1.gif"/>
+<img align="left" alt="GIF" src="./sample1.gif"/>
 
 ![wangxiang](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
 
