@@ -8,6 +8,7 @@
 - 2021年正式加入entfrm开源项目,正在开发商业版,过一段时间欢迎小伙伴们尝鲜
 - 我目前居住在衡阳,也希望以后能多为开源社区出一份微薄的力量
 
+<img align="left" alt="GIF" src="./sample1.gif"/>
 
 <h3> 💬 联系我</h3>
 
@@ -44,9 +45,8 @@
 <br/>
 <hr/>
 
-<img align="left" alt="GIF" src="./sample1.gif"/>
-
 ![wangxiang](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
+<br/>
 
 ![高级语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
 
