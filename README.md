@@ -31,7 +31,6 @@
 ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2) 
-![Vue](https://img.shields.io/badge/-vue-grey?style=for-the-badge&logo=Vue&logoColor=white&labelColor=8E2DE2) 
 
 <br>
 
