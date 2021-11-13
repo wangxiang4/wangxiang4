@@ -39,7 +39,6 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2) 
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2) 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-grey?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=8E2DE2) 
-![Typora](https://img.shields.io/badge/-Typora-grey?style=for-the-badge&logo=Typora&logoColor=white&labelColor=8E2DE2) 
 
 <h3> 🔧 后端技术栈与工具</h3>
 
