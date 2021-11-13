@@ -1,12 +1,12 @@
 <h2> 你好! 我叫王翔. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="./gif3.gif" width="500"/>
 
 <h3> 👨 关于我 </h3>
 
 - 2019加入后端开发工作,目前为止已经有3年经验的后端开发经验了,前端也会一点点
 - 2021年正式加入entfrm开源项目,正在开发商业版,过一段时间欢迎小伙伴们尝鲜
-- 我目前居住在衡阳.衡东,也希望以后能多为开源社区出一份微薄的力量
+- 我目前居住在衡阳,也希望以后能多为开源社区出一份微薄的力量
 
 
 <h3> 💬 联系我</h3>
