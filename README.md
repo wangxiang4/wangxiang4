@@ -44,7 +44,7 @@
 <h3> 🔧 后端技术栈与工具</h3>
 
 <br>
- java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, 等等一大把相关与后端的一些技术
+ java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, 等等一些目前主流后端框架技术
 <br>
 <br/>
 <hr/>
