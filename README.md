@@ -1,6 +1,6 @@
 <h2> 你好! 我叫王翔. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="./gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="./gif3.gif" width="450"/>
 
 <h3> 👨 关于我 </h3>
 
@@ -17,9 +17,10 @@
 [CSDN/王翔](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
 
 
+[邮箱/1827945911@qq.com](mailto:1827945911@qq.com)
+
 <br/>
 
-[邮箱/1827945911@qq.com](mailto:1827945911@qq.com)
 
 <h3> 🔧 前端技术栈与工具</h3>
 
