@@ -8,7 +8,7 @@
 - 2021年正式加入entfrm开源项目,正在开发商业版,过一段时间欢迎小伙伴们尝鲜
 - 我目前居住在衡阳,也希望以后能多为开源社区出一份微薄的力量
 
-<img align="left" alt="GIF" src="./sample1.gif" width="120"/>
+<img align="left" alt="GIF" src="./sample1.gif" width="200"/>
 
 <h3> 💬 联系我</h3>
 
