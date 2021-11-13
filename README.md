@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./sample1.gif" width="250"/>
+<img alt="GIF" src="./sample1.gif"/>
 <br/>
 
 <h2> 你好! 我叫王翔. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
