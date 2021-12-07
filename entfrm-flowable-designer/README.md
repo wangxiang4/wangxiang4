@@ -40,16 +40,16 @@ npm run serve
 
 ## 4. 演示
 
-![img.png](public/image/sample1.png)
+![img.png](imgs/sample1.png)
 <hr/>
 
-![img.png](public/image/sample2.png)
+![img.png](imgs/sample2.png)
 <hr/>
 
-![img.png](public/image/sample3.png)
+![img.png](imgs/sample3.png)
 <hr/>
 
-![img.png](public/image/sample4.png)
+![img.png](imgs/sample4.png)
 <hr/>
 
-![img.png](public/image/sample5.png)
+![img.png](imgs/sample5.png)
