@@ -4,9 +4,9 @@
 
 <h3> 👨 about me </h3>
 <h6>Birthday:20000-9-30</h6>  <h6>Hobbies: Likes to play computer</h6>
-- 2019 Join back-end development work,3 years of back-end development experience,
-- 2021 Officially joined the entfrm open source project,The commercial version is under development, friends are welcome to try it out after a while
-- I live in China now,I hope I can become a qualified Java architect in the future
+2019 Join back-end development work,3 years of back-end development experience,
+2021 Officially joined the entfrm open source project,The commercial version is under development, friends are welcome to try it out after a while
+I live in China now,I hope I can become a qualified Java architect in the future
 
 <img align="left" alt="GIF" src="./sample1.gif" width="160"/>
 
