@@ -8,6 +8,7 @@
 2021 Officially joined the entfrm open source project,The commercial version is under development, friends are welcome to try it out after a while
 I live in China now,I hope I can become a qualified Java architect in the future
 
+---
 <img align="left" alt="GIF" src="./sample1.gif" width="160"/>
 
 <h3> 💬 contact me</h3>
