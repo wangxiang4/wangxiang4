@@ -1,28 +1,28 @@
-<h2> 你好! 我叫王翔. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
+<h2> Hello! My name is Wang Xiang. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="./gif3.gif" width="460"/>
 
-<h3> 👨 关于我 </h3>
-<h6>生日:20000-9-30</h6>  <h6>兴趣爱好:喜欢玩电脑</h6>
-- 2019加入后端开发工作,目前为止已经有3年经验的后端开发经验了,前端也会一点点
-- 2021年正式加入entfrm开源项目,正在开发商业版,过一段时间欢迎小伙伴们尝鲜
-- 我目前居住在衡阳,希望以后我可以成为一名合格的Java架构师
+<h3> 👨 about me </h3>
+<h6>Birthday:20000-9-30</h6>  <h6>Hobbies: Likes to play computer</h6>
+- 2019 Join back-end development work,3 years of back-end development experience,
+- 2021 Officially joined the entfrm open source project,The commercial version is under development, friends are welcome to try it out after a while
+- I live in China now,I hope I can become a qualified Java architect in the future
 
 <img align="left" alt="GIF" src="./sample1.gif" width="160"/>
 
-<h3> 💬 联系我</h3>
+<h3> 💬 contact me</h3>
 
-[知乎/王翔](https://www.zhihu.com/people/anonymous-19-28-81)
+[zhihu/wangxiang](https://www.zhihu.com/people/anonymous-19-28-81)
 
-[CSDN/王翔](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
+[CSDN/wangxiang](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
 
 
-[邮箱/1827945911@qq.com](mailto:1827945911@qq.com)
+[Mail/1827945911@qq.com](mailto:1827945911@qq.com)
 
 <br/>
 
 
-<h3> 🔧 前端技术栈与工具</h3>
+<h3> 🔧 Front-end technology stack and tools</h3>
 
 <br>
 
@@ -36,10 +36,10 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2) 
 ![WebStorm](https://img.shields.io/badge/-WebStorm-grey?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=8E2DE2) 
 
-<h3> 🔧 后端技术栈与工具</h3>
+<h3> 🔧 Backend technology stack and tools</h3>
 
 <br>
- java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, 等等一些目前主流后端框架技术
+ java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, Wait for some current mainstream back-end framework technologies
 <br>
 <br/>
 <hr/>
@@ -47,5 +47,5 @@
 ![wangxiang](https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=true)
 <br/>
 
-![高级语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
+![high level language](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact)
 
