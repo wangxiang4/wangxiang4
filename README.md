@@ -1,3 +1,8 @@
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wangxiang4/count.svg" />
+</p>
+
 <h2> Hello! My name is Wang Xiang. <img src="https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/ff0c0bdc7abf6ab23b4a80bb6ba98b7d34bbdc10.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="./gif3.gif" width="460"/>
@@ -21,7 +26,6 @@ I live in China now,I hope I can become a qualified Java architect in the future
 [Mail/1827945911@qq.com](mailto:1827945911@qq.com)
 
 <br/>
-
 
 <h3> 🔧 Front-end technology stack and tools</h3>
 
