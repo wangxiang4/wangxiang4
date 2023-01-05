@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./gif3.gif" width="460"/>
 
-<h3> 👨 about me </h3>
+<h3> 👉🏼 about me </h3>
 <h6>Birthday:20000-9-30</h6>
 I started coming into contact with computers when I was 15 years old. It was also since then that I had the first computer in my life.
 From then on, I fell in love with this colorful virtual world. What I am different from most of my peers around me is that what I like
@@ -38,25 +38,6 @@ engineer. ios, Android, Front end, Backend, Will be some If I have any questions
   <img src="https://profile-counter.glitch.me/wangxiang4/count.svg" />
 </p>
 
-<h3> 🔧 Front-end technology stack and tools</h3>
-
-<br>
-
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2) 
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2) 
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2) 
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2) 
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2) 
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2) 
-![WebStorm](https://img.shields.io/badge/-WebStorm-grey?style=for-the-badge&logo=WebStorm&logoColor=white&labelColor=8E2DE2) 
-
-<h3> 🔧 Backend technology stack and tools</h3>
-
-<br>
- java, spring, spring-boot, spring-cloud, hibernate, mybatis-plus, springData, postgresql, mysql, oreacle, springOath2.0, redis, Wait for some current mainstream back-end framework technologies
-<br>
 <br/>
 <hr/>
 
