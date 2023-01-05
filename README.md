@@ -4,7 +4,7 @@
 
 <h3> 👉🏼 about me </h3>
 <h6>Birthday:20000-9-30</h6>
-I started coming into contact with computers when I was 15 years old. It was also since then that I had the first computer in my life.
+I started coming into contact with computers when I was 15 years old. It was also since then that I had the firstcomputer in my life.
 From then on, I fell in love with this colorful virtual world. What I am different from most of my peers around me is that what I like
 is tossing about computers. When I saw the operating system, I wondered how it was installed. At that time, I remember that I bought
 a lot of CDs for operating windows system. Basically, I often change an operating system to play. After two years of ordeal, I found 
