@@ -13,7 +13,7 @@
 - 📮[csdn](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
 - 📮[mail](mailto:1827945911@qq.com)
 
-### 🧑🏻‍💻 about me </h3>
+### 🧑🏻‍💻 About me </h3>
 I started coming into contact with computers when I was 15 years old. It was also since then that I had the first computer in my life.
 From then on, I fell in love with this colorful virtual world. What I am different from most of my peers around me is that what I like
 is tossing about computers. When I saw the operating system, I wondered how it was installed. At that time, I remember that I bought
