@@ -9,12 +9,9 @@
 ### 👋 Hi there, I'm Wang Xiang.
 
 #### ☎️ Find me
-
-[zhihu](https://www.zhihu.com/people/anonymous-19-28-81)
-
-[CSDN](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
-
-[Mail](mailto:1827945911@qq.com)
+- 📮[zhihu](https://www.zhihu.com/people/anonymous-19-28-81)
+- 📮[csdn](https://blog.csdn.net/weixin_43783011?spm=1000.2115.3001.5343)
+- 📮[mail](mailto:1827945911@qq.com)
 
 ### 🧑🏻‍💻 about me </h3>
 I started coming into contact with computers when I was 15 years old. It was also since then that I had the first computer in my life.
