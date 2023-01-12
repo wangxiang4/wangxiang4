@@ -25,5 +25,5 @@ will be erased in this world, so I want to leave something behind and make some 
 company. If I work overtime every day and don't give me some time to study, I will resign immediately and change it. Because the basis of producing 
 open source is that you have enough technical knowledge, So learning is also essential, My goal is not to be a very Great person either I just like to 
 open source some tools within my power. And I also decided to finish my short life alone in work related to open source. I am currently a full stack
-engineer. ios, Android, Front End, Back End, Will be some If I have any questions about the open source tool, please ask Or please contact me by email.
+engineer. ios, Android, Front End, Back End, know some If I have any questions about the open source tool, please ask Or please contact me by email.
 
