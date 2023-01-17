@@ -15,8 +15,7 @@
 I started coming into contact with computers when I was 15 years old. It was also since then that I had the first computer in my life.
 From then on, I fell in love with this colorful virtual world. What I am different from most of my peers around me is that what I like
 is tossing about computers. When I saw the operating system, I wondered how it was installed. At that time, I remember that I bought
-a lot of CDs for operating windows system. Basically, I often change an operating system to play. After two years of ordeal, I found 
-it meaningless. So I fell in love with programming when I was 17. It was also the first line of code in life written at that time. At present
+a lot of CDs for operating windows system, I have also helped many people solve system aspects problems, during this period I also came into contact with programming, So I fell in love with programming when I was 17. It was also the first line of code in life written at that time. At present
 have been working for 3 years now. In fact, I personally prefer to develop toys. Because I know I may die one day Maybe today or tomorrow But
 I am not afraid of death What I fear is that I have been to this world without leaving anything to prove that I have been to this world.
 Including now I also prefer to produce things My personal principle is (Production open source is greater than learning, Learning is greater than company),
