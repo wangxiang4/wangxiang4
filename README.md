@@ -1,10 +1,7 @@
 ![](https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/pulls?q=author%3Asxzz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=wangxiang4&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows wangxiang's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=wangxiang4&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-  </picture>
+<a href="https://github.com/pulls?q=author:wangxiang4">
+  <img alt="Shows wangxiang's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=wangxiang4&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
 ### 👋 Hi there, I'm Wang Xiang.
