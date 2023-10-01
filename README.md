@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/ericwali/ericwali/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/pulls?q=author:ericwali">
-  <img alt="Shows wangxiang's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=ericwali&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+  <img alt="Shows Eric Wali's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=ericwali&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
-### 👋 Hi there, I'm Wang Xiang.
+### 👋 Hi there, I'm Eric Wali.
 
 #### ☎️ Find me
 - 📮[mail](mailto:github.wangxiang4@gmail.com)
