@@ -47,25 +47,25 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-stats.liuli.lol/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged"
+      srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-stats.liuli.lol/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged"
+      srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img alt="wangxiang4's GitHub Stats" src="https://github-stats.liuli.lol/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged" />
+    <img alt="wangxiang4's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=18&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
       media="(prefers-color-scheme: light)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=18&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img alt="wangxiang4's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=18&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320" />
+    <img alt="wangxiang4's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320" />
   </picture>
 </p>
 
