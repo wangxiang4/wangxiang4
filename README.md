@@ -22,36 +22,31 @@ I'm a self-taught passionate developer.
 
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-<table style="display: flex; justify-content: center;">
-   <tr style="border: none;">
-      <th style=" padding: 0 3px; border: none;">
-         <picture>
-            <source
-             srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github"
-             media="(prefers-color-scheme: light)"
-           />
-           <source
-             srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github"
-             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-           />
-           <img alt="wangxiang4's GitHub Stats" align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github" />
-         </picture>
-      </th>
-      <th style=" padding: 0 3px; border: none;">
-         <picture>
-            <source
-             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
-             media="(prefers-color-scheme: light)"
-           />
-           <source
-             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
-             media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-           />
-           <img alt="wangxiang4's Most Used Languages" align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320" />
-         </picture>
-      </th>
-   </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 3px;">
+   <picture>
+      <source
+       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github"
+       media="(prefers-color-scheme: light)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github"
+       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+     />
+     <img alt="wangxiang4's GitHub Stats" align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github" />
+   </picture>
+
+   <picture>
+      <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
+       media="(prefers-color-scheme: light)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
+       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+     />
+     <img alt="wangxiang4's Most Used Languages" align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320" />
+   </picture>
+</div>
 
 <br />
 
