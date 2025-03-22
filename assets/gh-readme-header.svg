@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 400 120">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #eb7bf8;
+        font-family: CinefileRegular-CinefileReg, 'Cinefile Regular';
+        font-size: 24px;
+      }
+
+      .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #fe5779;
+        font-family: BucklesRegular, Buckles;
+        font-size: 36px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="400" height="120"/>
+  <g class="st2">
+    <g class="st2">
+      <text class="st3" transform="translate(26.7 57.3)"><tspan x="0" y="0">Hello! I&apos;m WangXiang</tspan></text>
+    </g>
+  </g>
+  <g class="st2">
+    <g class="st2">
+      <text class="st1" transform="translate(125.9 94.2)"><tspan x="0" y="0">I do open source.</tspan></text>
+    </g>
+  </g>
+</svg>
