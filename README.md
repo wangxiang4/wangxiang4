@@ -1,13 +1,10 @@
-<p style="text-align: center;"><img width="80%" alt="Hello, I'm WangXiang. I do open source!" src="./assets/gh-readme-header.svg" /></p>
-
-<br/>
+<img width="80%" align="center" alt="Hello, I'm WangXiang, I do open source." src="./assets/gh-readme-header.svg" />
 
 I'm a self-taught passionate developer.
 
 **About me**
 - I love writing Server, Web, Ios, Android, Hardware   
-- Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)   
-
+- Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)
 
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"></code>
@@ -22,7 +19,7 @@ I'm a self-taught passionate developer.
 
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-<div style="display: flex; justify-content: center; align-items: center; gap: 3px;">
+<p align="center">
    <picture>
       <source
        srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github"
@@ -34,7 +31,6 @@ I'm a self-taught passionate developer.
      />
      <img alt="wangxiang4's GitHub Stats" align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github" />
    </picture>
-
    <picture>
       <source
        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
@@ -46,9 +42,7 @@ I'm a self-taught passionate developer.
      />
      <img alt="wangxiang4's Most Used Languages" align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320" />
    </picture>
-</div>
-
-<br />
+</p>
 
 [//]: # (https://github.com/Platane/snk)
 <picture>
