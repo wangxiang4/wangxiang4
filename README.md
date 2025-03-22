@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="javascript:void(0)">
-    <img alt="Hello, i'm WangXiang, i do open source." width="380px" src="./assets/gh-readme-header.svg" />
+  <a href="">
+    <img alt="Hello, i'm WangXiang, i do open source." width="50%" src="./assets/gh-readme-header.svg" />
   </a>
 </p>
 
