@@ -1,8 +1,10 @@
-<img width="80%" align="center" alt="Hello, I'm WangXiang, I do open source." src="./assets/gh-readme-header.svg" />
+<a href="https://github.com/pulls?q=author:wangxiang4">
+   <img alt="Hello, i'm WangXiang, i do open source." align="right" width="480px" src="./assets/gh-readme-header.svg" />
+</a>
 
-I'm a self-taught passionate developer.
+### I'm a self-taught passionate developer.
 
-**About me**
+#### **About me**
 - I love writing Server, Web, Ios, Android, Hardware   
 - Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)
 
