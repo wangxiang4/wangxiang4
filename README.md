@@ -10,7 +10,6 @@
 - I love writing Server, Web, Ios, Android, Hardware   
 - Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)
 
-<p align="left">
    <code>
       <a href="https://github.com/topics/java">
          <img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
@@ -61,7 +60,7 @@
          <img height="20" alt="gradle" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png">
       </a>
    </code>
-</p>
+
 
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
