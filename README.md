@@ -2,9 +2,9 @@
    <img alt="Hello, i'm WangXiang, i do open source." align="right" width="480px" src="./assets/gh-readme-header.svg" />
 </a>
 
-### I'm a self-taught passionate developer.
+#### I'm a self-taught passionate developer.
 
-#### **About me**
+#### About me
 - I love writing Server, Web, Ios, Android, Hardware   
 - Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)
 
@@ -24,22 +24,22 @@
 <p align="center">
    <picture>
       <source
-       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github"
+       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=buefy&hide_border=true&border_radius=6&rank_icon=github&card_width=460"
        media="(prefers-color-scheme: light)"
      />
      <source
-       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github"
+       srcset="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github&card_width=460"
        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
      />
      <img alt="wangxiang4's GitHub Stats" align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=wangxiang4&show_icons=false&include_all_commits=true&theme=ambient_gradient&hide_border=true&border_radius=6&rank_icon=github" />
    </picture>
    <picture>
       <source
-       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=350"
        media="(prefers-color-scheme: light)"
      />
      <source
-       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320"
+       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=350"
        media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
      />
      <img alt="wangxiang4's Most Used Languages" align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=320" />
@@ -48,15 +48,7 @@
 
 [//]: # (https://github.com/Platane/snk)
 <picture>
-   <source
-    srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake.svg"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake.svg" />
   <img alt="wangxiang4's Github Snake Grid" src="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-
