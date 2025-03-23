@@ -4,9 +4,9 @@
   </a>
 </p>
 
-#### I'm a self-taught passionate developer.
+__I'm a self-taught passionate developer.__
 
-#### About me
+__About me__
 - I love writing Server, Web, Ios, Android, Hardware   
 - Ask me about anything [here](https://github.com/wangxiang4/wangxiang4/issues)
 
