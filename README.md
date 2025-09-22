@@ -4,7 +4,9 @@
   </a>
 </p>
 
-__I'm a self-taught passionate developer.__
+__[Philosophy](https://en.wikipedia.org/wiki/Philosophy) will guide me towards the meaning of life.__   
+- __"The unexamined life is not worth living." —Socrates__  
+- __"He who has a why to live can bear almost any how." —Friedrich Nietzsche__  
 
 __About me__
 - I love writing Server, Web, Ios, Android, Hardware   
