@@ -14,21 +14,6 @@ __There's no need to follow me or give a star — on a philosophical level, thes
 	<img src="https://skillicons.dev/icons?i=java,kotlin,react,angular,typescript,swift,postgresql,kubernetes,gradle" />
 </p>
 
-[//]: # (https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=buefy&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
-      media="(prefers-color-scheme: light)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="wangxiang4's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxiang4&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=16&size_weight=0.5&count_weight=0.5&border_radius=6&card_width=320" />
-  </picture>
-</p>
-
 [//]: # (https://github.com/Platane/snk)
 <p align="center">
   <picture>
