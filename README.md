@@ -5,8 +5,8 @@
 </p>
 
 __[Philosophy](https://en.wikipedia.org/wiki/Philosophy) will guide me towards the meaning of life.__   
-- __"The unexamined life is not worth living." —Socrates__  
-- __"He who has a why to live can bear almost any how." —Friedrich Nietzsche__  
+- __"The unexamined life is not worth living." —~~Socrates~~__  
+- __"He who has a why to live can bear almost any how." —~~Friedrich Nietzsche~~__  
 
 __There's no need to follow me or give a star — on a philosophical level, these are merely superficial and illusory data of society. When the world ceases to exist, all data on the internet will perish.__
 
