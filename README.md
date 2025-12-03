@@ -4,6 +4,7 @@
   </a>
 </p>
 
+__I'm an electrical and plumbing worker.__  
 __[Philosophy](https://en.wikipedia.org/wiki/Philosophy) will guide me towards the meaning of life.__   
 - __"The unexamined life is not worth living." —~~Socrates~~__  
 - __"He who has a why to live can bear almost any how." —~~Friedrich Nietzsche~~__  
