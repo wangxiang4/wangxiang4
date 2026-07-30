@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="Hello, i'm WangXiang, i do open source." width="50%" src="./assets/gh-readme-header.svg" />
+    <img alt="Hello, i'm Xander, i do open source." width="50%" src="./assets/gh-readme-header.svg" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ __There's no need to follow me or give a star — on a philosophical level, thes
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="wangxiang4's Github Snake Grid" src="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Xander's Github Snake Grid" src="https://raw.githubusercontent.com/wangxiang4/wangxiang4/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
